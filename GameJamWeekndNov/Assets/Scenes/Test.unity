@@ -130,6 +130,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 721430178269717618, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 99.0452
+      objectReference: {fileID: 0}
+    - target: {fileID: 721430178269717618, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 36.2266
+      objectReference: {fileID: 0}
+    - target: {fileID: 932459015450652120, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: RestartLevel
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336438152937606259, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 99.045
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336438152937606259, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 32.8733
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336438153447886000, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 91
+      objectReference: {fileID: 0}
     - target: {fileID: 2336438153507282642, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -217,6 +241,18 @@ PrefabInstance:
     - target: {fileID: 2336438153507282647, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336438153708977161, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336438154388546842, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 83.2529
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336438154388546842, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 41.2565
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
