@@ -56,7 +56,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
     void Jump(){
-        if(Input.GetKey(KeyCode.Space) && jumpTimer + 1f<= Time.time){
+        if(Input.GetKey(KeyCode.Space) && jumpTimer + 1f <= Time.time){
             jumped = true;
             jumpTimer = Time.time;
             movement.y = 1f;
