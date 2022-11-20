@@ -5,9 +5,9 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
 
-    [SerializeField] Transform TargetTransform;
-    [SerializeField] float damp = 0.5f;
-    Vector3 offset;
+    public Transform TargetTransform;
+    public float damp = 0.5f;
+    public Vector3 offset;
     Vector3 refVelocity = Vector3.zero;
 
     // Start is called before the first frame update
