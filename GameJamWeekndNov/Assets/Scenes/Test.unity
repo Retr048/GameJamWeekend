@@ -132,11 +132,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 721430178269717618, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 99.0452
+      value: 76.3153
       objectReference: {fileID: 0}
     - target: {fileID: 721430178269717618, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 36.2266
+      value: 31.3559
+      objectReference: {fileID: 0}
+    - target: {fileID: 721430178269717618, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 7.4
       objectReference: {fileID: 0}
     - target: {fileID: 932459015450652120, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
@@ -144,11 +148,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2336438152937606259, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 99.045
+      value: 68.1973
       objectReference: {fileID: 0}
     - target: {fileID: 2336438152937606259, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 32.8733
+      value: 28.0026
+      objectReference: {fileID: 0}
+    - target: {fileID: 2336438152937606259, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -33.8
       objectReference: {fileID: 0}
     - target: {fileID: 2336438153447886000, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -248,11 +256,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2336438154388546842, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 83.2529
+      value: 55.6523
       objectReference: {fileID: 0}
     - target: {fileID: 2336438154388546842, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 41.2565
+      value: 31.5151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5972265309566622897, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5004a52c2e0ddf448f3322528f8b472, type: 3}
@@ -1079,16 +1091,16 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 7
+  m_Intensity: 2
   m_Range: 20
-  m_SpotAngle: 132.7
-  m_InnerSpotAngle: 21.80208
+  m_SpotAngle: 130
+  m_InnerSpotAngle: 1
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
+    m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
-    m_Strength: 1
+    m_Strength: 0.6
     m_Bias: 0.05
     m_NormalBias: 0.4
     m_NearPlane: 0.2
@@ -1137,7 +1149,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1846966649}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0.85, y: 2, z: 12.04}
+  m_LocalPosition: {x: 0.85, y: 4.7, z: 12.04}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
