@@ -1014,6 +1014,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerRobot 1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5c21a3a6b22c56b47bceb2acd6e4cae6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5c21a3a6b22c56b47bceb2acd6e4cae6, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c21a3a6b22c56b47bceb2acd6e4cae6, type: 3}
 --- !u!1001 &919948705
